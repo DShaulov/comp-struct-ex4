@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include "ass4.h"
 
 #define MAX_COMMAND_LENGTH 11
 #define SIZE 3
